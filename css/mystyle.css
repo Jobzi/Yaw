@@ -1,0 +1,25 @@
+
+
+@media only screen and (min-width: 768px){    
+    div.ex3 {
+        padding:20px 250px;
+        height: 80%;
+        overflow: auto;
+      }
+    }
+      
+@media only screen and (min-width: 600px){    
+    div.ex3 {
+        padding:20px 100px;
+        height: 80%;
+        overflow: auto;
+      }
+    }
+
+@media only screen and (max-width: 768px){
+    div.ex3 {
+        padding:20px 20px;
+        height: 80%;
+        overflow: auto;
+      }
+  }
